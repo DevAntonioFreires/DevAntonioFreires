@@ -59,7 +59,14 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e me esp
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
 <img 
     align="left" 
     alt="SASS" 
@@ -68,7 +75,6 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e me esp
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -84,6 +90,14 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e me esp
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 <img 
     align="left" 
