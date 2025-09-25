@@ -1,6 +1,6 @@
 # Antonio Freires
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 👨‍💻 Sobre mim 
 
@@ -8,21 +8,20 @@ Me chamo Antônio Freires, tenho 20 anos e sou natural de Recife – PE.
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e me especializando em Desenvolvimento Full Stack pela Infinity School. Sou apaixonado por tecnologia e busco constantemente aprimorar meus conhecimentos para criar soluções inovadoras.
 
 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    />
+</a>
+<a href="https://github.com/Larissakich?tab=followers">
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+</a>
 
 ---
 
@@ -100,7 +99,6 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e me esp
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Laravel" 
@@ -109,7 +107,6 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e me esp
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -126,6 +123,22 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e me esp
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -141,11 +154,10 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e me esp
     src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
