@@ -12,7 +12,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e me esp
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
+    align="left"
     alt="HTML"
     title="HTML" 
     width="30px" 
