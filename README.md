@@ -4,6 +4,7 @@
 
 👨‍💻 Sobre mim
 
+
 Me chamo Antônio Freires, tenho 21 anos e sou natural de Recife – PE.
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e me especializando em Desenvolvimento Full Stack pela Infinity School. Sou apaixonado por tecnologia e busco constantemente aprimorar meus conhecimentos para criar soluções inovadoras.
 
