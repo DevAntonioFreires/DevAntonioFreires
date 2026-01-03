@@ -117,7 +117,7 @@ Sou apaixonado por tecnologia e busco constantemente aprimorar meus conhecimento
 
 ---
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 
 <img 
   alt="GitHub Stats" 
