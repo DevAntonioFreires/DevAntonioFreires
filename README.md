@@ -118,12 +118,13 @@ Sou apaixonado por tecnologia e busco constantemente aprimorar meus conhecimento
 ---
 ### 📊 Estatísticas
 
-<img 
+<img
   height="180"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=DevAntonioFreires&theme=tokyonight"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevAntonioFreires&show_icons=true&theme=tokyonight"
 />
 
-<img 
+<img
   height="180"
   src="https://github-readme-activity-graph.vercel.app/graph?username=DevAntonioFreires&theme=tokyo-night"
 />
+
