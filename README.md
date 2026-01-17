@@ -116,16 +116,14 @@ Sou apaixonado por tecnologia e busco constantemente aprimorar meus conhecimento
 <br/>
 
 ---
-
 ### 📊 Estatísticas
 
 <img 
-  height="200" 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevAntonioFreires&show_icons=true&theme=tokyonight"
+  height="180"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=DevAntonioFreires&theme=tokyonight"
 />
 
 <img 
-  height="200" 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevAntonioFreires&theme=tokyonight&layout=compact&langs_count=9"
+  height="180"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=DevAntonioFreires&theme=tokyo-night"
 />
-
