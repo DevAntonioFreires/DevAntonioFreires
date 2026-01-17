@@ -118,8 +118,10 @@ Sou apaixonado por tecnologia e busco constantemente aprimorar meus conhecimento
 ---
 ### 📊 Estatísticas
 
-<img
-  src="https://metrics.lecoq.io/DevAntonioFreires?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&languages=1&languages.limit=6"
-/>
+- 📌 **Commits e atividade:**  
+  👉 https://github.com/DevAntonioFreires
+
+- 🧠 **Linguagens mais usadas:**  
+  👉 https://github.com/DevAntonioFreires?tab=repositories
 
 
