@@ -118,10 +118,13 @@ Sou apaixonado por tecnologia e busco constantemente aprimorar meus conhecimento
 ---
 ### 📊 Estatísticas
 
-- 📌 **Commits e atividade:**  
-  👉 https://github.com/DevAntonioFreires
+<img
+  src="https://github-readme-stats.vercel.app/api?username=DevAntonioFreires&include_all_commits=true&show_icons=false"
+/>
 
-- 🧠 **Linguagens mais usadas:**  
-  👉 https://github.com/DevAntonioFreires?tab=repositories
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAntonioFreires&layout=compact"
+/>
+
 
 
