@@ -120,5 +120,5 @@ Sou apaixonado por tecnologia e busco constantemente aprimorar meus conhecimento
 
 ![Commits](https://github-readme-stats.vercel.app/api?username=DevAntonioFreires&include_all_commits=true&show_icons=true)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAntonioFreires&layout=compact)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devAntonioFreires&layout=compact)
 
