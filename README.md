@@ -116,15 +116,5 @@ Sou apaixonado por tecnologia e busco constantemente aprimorar meus conhecimento
 <br/>
 
 ---
- 📊 Estatísticas
-
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DevAntonioFreires&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-</p>
-
 
 
